@@ -25,3 +25,4 @@ Then open `http://localhost:8000`.
 This is an installable PWA prototype with an iOS-style mobile shell. It is designed to be tested interactively without requiring a backend.
 
 Note: the original experience labels park maps/routes, orders, and activity as simulated/unofficial, and that framing is preserved.
+Deploy full-stack app.
